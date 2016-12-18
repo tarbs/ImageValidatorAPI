@@ -12,8 +12,8 @@ The aim is to simplify the uload process for non-technical users while also prov
 
 ## ToDos
 
-[ ] Set environments in the yaml config file
-[ ] Set up project resources in the yaml config file
-[ ] createUploadRequest
-[ ] startUploadSession
-[ ] uploadImage
+- [ ] Set environments in the yaml config file
+- [ ] Set up project resources in the yaml config file
+- [ ] createUploadRequest
+- [ ] startUploadSession
+- [ ] uploadImage
