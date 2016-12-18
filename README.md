@@ -12,7 +12,7 @@ The aim is to simplify the uload process for non-technical users while also prov
 
 ## ToDos
 
-- [ ] Set environments in the yaml config file
+- [x] <del>Set environments in the yaml config file</del>
 - [ ] Set up project resources in the yaml config file
 - [ ] createUploadRequest
 - [ ] startUploadSession
