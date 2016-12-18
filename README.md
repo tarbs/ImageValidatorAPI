@@ -6,7 +6,7 @@
 
 An API to manage the image upload progress.  
 
-The aim is to simplify the uload process for non-technical users while also providing image validation and tracking additional metadata.
+The aim is to simplify the upload process for non-technical users while also providing image validation and tracking additional metadata.
 
 ***
 
