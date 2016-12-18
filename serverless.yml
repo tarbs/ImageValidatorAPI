@@ -25,6 +25,11 @@ provider:
   profile: ImageValidatorDev
   region: eu-west-2
 
+  resources:
+    ImageValidatorBucket:
+      Type: AWS::S3::Bucket
+      Name: ImageValidatorBucket-{randomNumber}
+
 
 # you can overwrite defaults here
 #  stage: dev
